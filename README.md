@@ -4,6 +4,7 @@ I'm an **Azure Support Escalation Engineer** with a savvy interest in developmen
 
 I have a strong background in Linux, Python, and Bash scripting, and I'm always looking for new challenges to improve my skills.
 
+Don't forget to visit [**SoftLockup.com**](https://www.softlockup.com) where you can always find some neat articles!
 
 ### Here are some quick facts about me:
 
