@@ -1,14 +1,22 @@
 ## Hi there! 
 
-I'm an **Azure Support Escalation Engineer** with a savvy interest in development. My primary focus is on Linux within the Azure IaaS ecosystem, where I develop and enhance content related to this field.
+I'm a **Senior Technical Support Escalation Engineer** for Microsoft Azure with a savvy interest in development. I have a strong background in Linux, Python, and Bash scripting, and I'm always looking for new challenges to improve my skills.
 
-I have a strong background in Linux, Python, and Bash scripting, and I'm always looking for new challenges to improve my skills.
+### Projects
 
-Don't forget to visit [**SoftLockup.com**](https://www.softlockup.com) where you can always find some neat articles!
+| Project | Description |
+| --- | --- |
+| 🔥 **[Linux AIO Performance Checker](https://github.com/samatild/LinuxAiOPerf)** | Epic Linux Performance Report generator. |
+| 🔥 **[TuxToaster](https://github.com/samatild/TuxToaster)** | It burns your Linux to the ground. |
+| 🔥 **[Linux Boot/Shutdown Quick-Analyzer](https://github.com/samatild/linuxrebootcheck)** | So, when did it happen? |
+| 🔥 **[Linux IMDS/Wireserver Connectivity Checker](https://github.com/samatild/Linux-IMDS-Wireserver-Connection-Checker)** | Fast Azure IMDS/Wireserver connectivity checker. |
+| 🔥 **[Profile Fetcher for Azure VM](https://github.com/samatild/azvmprofilefetcher)** | It simply prints out the profile of your Azure VM. |
+| 🔥 [**SoftLockup.com**](https://www.softlockup.com) | Knowledge base for Linux, Azure, Python, Bash, etc. |
+
 
 ### Here are some quick facts about me:
 
-- 🔭 I’m currently working on Microsoft.
+- 🔭 I’m currently working at Microsoft.
 - 💬 Ask me about : Azure VMs, Performance, Linux, Python and Bash.
 - 🌱 Hobbies: Microcontrollers, Home Automation and Bonsais.
 - ⚡ Fun fact: I also like to play the Piano and build Arcade machines.
