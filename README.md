@@ -24,18 +24,17 @@ I'm a **Senior Technical Support Escalation Engineer** for Microsoft Azure with 
 
 ### My GitHub Stats
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samatild&show_icons=true&theme=radical)
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samatild&show_icons=true&theme=dracula&hide_border=true)
 
 ### My Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samatild&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samatild&layout=compact&theme=dracula&hide_border=true)
 
 ### My GitHub Streak
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samatild&theme=radical)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=samatild&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 ### My GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=samatild&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=samatild&theme=dracula&hide_border=true)
 
