@@ -1,77 +1,146 @@
-# Samuel Matildes
-### Senior Technical Support Escalation Engineer | Linux Performance Advocate
+<div align="center">
 
-💡 I am a Senior Escalation Engineer with over 14 years of experience in Linux, Azure Cloud, and diverse infrastructure environments. My passion lies in creating innovative solutions that solve complex challenges, from concept to implementation.
+# Samuel Matildes
+
+### Senior Technical Support Escalation Engineer | Linux Performance Advocate | Azure Specialist
+
+[![Email](https://img.shields.io/badge/Email-samuel@matildes.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel@matildes.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelmatildes)
+
+</div>
 
 ---
 
-## Projects
+## About Me
 
-| Project | What it does |
-| --- | --- |
-| 🔥 **[Linux AIO Performance Checker](https://github.com/samatild/LinuxAiOPerf)** | Generates a comprehensive I/O performance report in ~10 s. |
-| 🔥 **[TuxToaster](https://github.com/samatild/TuxToaster)** | Automates destructive Linux test scenarios for resiliency checks. |
-| 🔥 **[Linux Boot/Shutdown Quick-Analyzer](https://github.com/samatild/linuxrebootcheck)** | Quickly pinpoints slow boot or shutdown events. |
-| 🔥 **[Linux IMDS/Wireserver Connectivity Checker](https://github.com/samatild/Linux-IMDS-Wireserver-Connection-Checker)** | Fast Azure IMDS and Wireserver connectivity diagnostics. |
-| 🔥 **[Profile Fetcher for Azure VM](https://github.com/samatild/azvmprofilefetcher)** | Prints out detailed Azure VM metadata profile. |
+Senior Escalation Engineer with **14+ years** of experience in Linux, Azure Cloud, and enterprise infrastructure. I build tools that solve real-world problems—from performance analysis to crash dump diagnostics. Winner of **Microsoft Hackathon 2023** (1st place, Lisbon edition).
 
-<details>
-  <summary>Other Projects</summary>
+```bash
+$ whoami
+Samuel Matildes
+
+$ echo $PASSIONS
+Linux enthusiast and Azure ambassador, building tools that matter.
+When not debugging kernel panics, you will find me with one of many hobbies.
+```
+
+---
+
+## Currently Working On
+
+**Kdump & Crash Analysis Tools** - Making kernel debugging accessible and automated
+- **[kdump-helper](https://github.com/samatild/kdump-helper)** - Automated kdump crash dump analysis preparation for Linux VMs
+- **[kdump-enabler](https://github.com/samatild/kdump-enabler)** - Cross-distro kdump automation script
+
+---
+
+## Featured Projects
+
+### Linux Performance & Diagnostics
+
+| Project | Description | Stars |
+|---------|-------------|-------|
+| **[LinuxAiOPerf](https://github.com/samatild/LinuxAiOPerf)** | All-in-one performance checker & report generator (~10s runtime) | ![Stars](https://img.shields.io/github/stars/samatild/LinuxAiOPerf?style=social) |
+| **[TuxToaster](https://github.com/samatild/TuxToaster)** | Comprehensive stress testing toolkit for Linux systems | ![Stars](https://img.shields.io/github/stars/samatild/TuxToaster?style=social) |
+| **[linuxrebootcheck](https://github.com/samatild/linuxrebootcheck)** | Boot/shutdown quick analyzer - pinpoint slow events instantly | ![Stars](https://img.shields.io/github/stars/samatild/linuxrebootcheck?style=social) |
+
+### Azure Tools
 
 | Project | Description |
-| --- | --- |
-| 🔥 [**SoftLockup.com**](https://www.softlockup.com) | Knowledge base for Linux, Azure, Python, Bash, etc. |
+|---------|-------------|
+| **[azvmprofilefetcher](https://github.com/samatild/azvmprofilefetcher)** | Beautiful Azure VM profile display using Instance Metadata |
+| **[Linux-IMDS-Wireserver-Connection-Checker](https://github.com/samatild/Linux-IMDS-Wireserver-Connection-Checker)** | Fast Azure IMDS and Wireserver connectivity diagnostics |
+| **[GetAzureARMLimits](https://github.com/samatild/GetAzureARMLimits)** | PowerShell script to retrieve Azure ARM subscription limits |
 
-</details>
+### Home Automation & IoT
+
+| Project | Description |
+|---------|-------------|
+| **[SolaxAPItoHomeAssistantIntegration](https://github.com/samatild/SolaxAPItoHomeAssistantIntegration)** | Docker container bridging Solax API to Home Assistant |
+
+### Knowledge Sharing
+
+| Resource | Description |
+|----------|-------------|
+| **[docs](https://github.com/samatild/docs)** | Public repo where I share technical knowledge |
 
 ---
 
 ## Tech Stack
 
-![Linux](https://img.shields.io/badge/Linux-000?style=flat&logo=linux&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Markdown](https://img.shields.io/badge/Markdown-000?style=flat&logo=markdown&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-000?style=flat&logo=devops&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57300?style=flat&logo=proxmox&logoColor=white)
+### Core Technologies
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## Achievements
+### Languages & Tools
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-- Built a beautiful family.
-- Won Microsoft Hackaton 2023 - 1st place in Lisbon edition.
-- Authored multiple Linux tooling.
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57300?style=for-the-badge&logo=proxmox&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
+
+---
+
+## Achievements & Highlights
+
+```diff
++ Microsoft Hackathon 2023 - 1st Place (Lisbon Edition)
++ Authored 15+ open-source Linux tools and utilities
++ 14+ years of experience in enterprise Linux and cloud infrastructure
++ Built a beautiful family
+```
 
 ---
 
 ## Quick Facts
 
-- 🔭 Currently working at Microsoft (Azure).  
-- 🌱 Hobbies: Microcontrollers, home automation, bonsai care.  
-- ⚡ Fun fact: I also play the piano and build arcade machines.
+```yaml
+current_role: Senior Escalation Engineer @ Microsoft Azure
+location: Portugal
+expertise: [Linux, Azure, Performance Tuning, Crash Dump Analysis]
+hobbies:
+  - Piano player
+  - Arcade machine builder
+  - Bonsai enthusiast
+  - Home automation tinkerer
+  - Microcontroller projects
+fun_fact: "I solve kernel panics by day and build arcade machines by night"
+```
 
 ---
 
-## Connect
+## GitHub Stats & Activity
 
-[![Email](https://img.shields.io/badge/Email-samuel@matildes.dev-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:samuel@matildes.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelmatildes)
+<div align="center">
 
-## GitHub Stats &amp; Trophies
+[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samatild&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/samatild)
 
-  [![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samatild&show_icons=true&theme=dracula&hide_border=true&line_height=22)](https://github.com/samatild)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samatild&layout=compact&theme=dracula&hide_border=true)](https://github.com/samatild)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samatild&theme=dracula&hide_border=true)](https://github.com/samatild)
 
-  ![trophy](https://github-profile-trophy.vercel.app/?username=samatild&theme=dracula&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samatild&layout=compact&theme=dracula&hide_border=true&langs_count=8)](https://github.com/samatild)
 
+[![Trophy](https://github-profile-trophy.vercel.app/?username=samatild&theme=dracula&hide_border=true&no-frame=true&row=1&column=7)](https://github.com/samatild)
+
+</div>
 
 ---
 
-*Last updated: 2025-07-25*
+<div align="center">
+
+### "The best code is the code that solves real problems"
+
+![Profile Views](https://komarev.com/ghpvc/?username=samatild&color=blueviolet&style=for-the-badge)
+
+*Last updated: 2025-10-10*
+
+</div>
 
