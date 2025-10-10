@@ -2,7 +2,7 @@
 
 # Samuel Matildes
 
-### Senior Technical Support Escalation Engineer | Linux Performance Advocate | Azure Specialist
+### Senior Escalation Engineer | Linux Advocate | Azure Specialist
 
 [![Email](https://img.shields.io/badge/Email-samuel@matildes.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel@matildes.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelmatildes)
@@ -11,7 +11,7 @@
 
 ---
 
-<h2>About Me</h2>
+## About Me
 
 Senior Escalation Engineer with **14+ years** of experience in Linux, Azure Cloud, and enterprise infrastructure. I build tools that solve real-world problems—from performance analysis to crash dump diagnostics. Winner of **Microsoft Hackathon 2023** (1st place, Lisbon edition).
 
@@ -26,7 +26,7 @@ When not debugging kernel panics, you will find me with one of many hobbies.
 
 ---
 
-<h2>Currently Working On</h2>
+## Currently Working On
 
 **Kdump & Crash Analysis Tools** - Making kernel debugging accessible and automated
 - **[kdump-helper](https://github.com/samatild/kdump-helper)** - Automated kdump crash dump analysis preparation for Linux VMs
@@ -34,9 +34,9 @@ When not debugging kernel panics, you will find me with one of many hobbies.
 
 ---
 
-<h2>Featured Projects</h2>
+## Featured Projects
 
-<h3>Linux Performance & Diagnostics</h3>
+### Linux Performance & Diagnostics
 
 | Project | Description | Stars |
 |---------|-------------|-------|
@@ -44,7 +44,7 @@ When not debugging kernel panics, you will find me with one of many hobbies.
 | **[TuxToaster](https://github.com/samatild/TuxToaster)** | Comprehensive stress testing toolkit for Linux systems | ![Stars](https://img.shields.io/github/stars/samatild/TuxToaster?style=social) |
 | **[linuxrebootcheck](https://github.com/samatild/linuxrebootcheck)** | Boot/shutdown quick analyzer - pinpoint slow events instantly | ![Stars](https://img.shields.io/github/stars/samatild/linuxrebootcheck?style=social) |
 
-<h3>Azure Tools</h3>
+### Azure Tools
 
 | Project | Description |
 |---------|-------------|
@@ -52,13 +52,13 @@ When not debugging kernel panics, you will find me with one of many hobbies.
 | **[Linux-IMDS-Wireserver-Connection-Checker](https://github.com/samatild/Linux-IMDS-Wireserver-Connection-Checker)** | Fast Azure IMDS and Wireserver connectivity diagnostics |
 | **[GetAzureARMLimits](https://github.com/samatild/GetAzureARMLimits)** | PowerShell script to retrieve Azure ARM subscription limits |
 
-<h3>Home Automation & IoT</h3>
+### Home Automation & IoT
 
 | Project | Description |
 |---------|-------------|
 | **[SolaxAPItoHomeAssistantIntegration](https://github.com/samatild/SolaxAPItoHomeAssistantIntegration)** | Docker container bridging Solax API to Home Assistant |
 
-<h3>Knowledge Sharing</h3>
+### Knowledge Sharing
 
 | Resource | Description |
 |----------|-------------|
@@ -66,22 +66,22 @@ When not debugging kernel panics, you will find me with one of many hobbies.
 
 ---
 
-<h2>Tech Stack</h2>
+## Tech Stack
 
-<h3>Core Technologies</h3>
+### Core Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<h3>Languages & Tools</h3>
+### Languages & Tools
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-<h3>DevOps & Infrastructure</h3>
+### DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -90,7 +90,7 @@ When not debugging kernel panics, you will find me with one of many hobbies.
 
 ---
 
-<h2>Achievements & Highlights</h2>
+## Achievements & Highlights
 
 ```diff
 + Microsoft Hackathon 2023 - 1st Place (Lisbon Edition)
@@ -101,7 +101,7 @@ When not debugging kernel panics, you will find me with one of many hobbies.
 
 ---
 
-<h2>Quick Facts</h2>
+## Quick Facts
 
 ```yaml
 current_role: Senior Escalation Engineer @ Microsoft Azure
@@ -118,7 +118,7 @@ fun_fact: "I solve kernel panics by day and build arcade machines by night"
 
 ---
 
-<h2>GitHub Stats & Activity</h2>
+## GitHub Stats & Activity
 
 <div align="center">
 
