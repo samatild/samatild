@@ -6,6 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-samuel@matildes.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel@matildes.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelmatildes)
+[![Docs](https://img.shields.io/badge/KB-docs.matildes.dev-ff6b6b?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.matildes.dev)
 
 </div>
 
@@ -62,6 +63,7 @@ When not debugging kernel panics, you will find me with one of many hobbies.
 
 | Resource | Description |
 |----------|-------------|
+| **[docs.matildes.dev](https://docs.matildes.dev)** | Knowledge base: Linux, Azure, Python, Bash, and more |
 | **[docs](https://github.com/samatild/docs)** | Public repo where I share technical knowledge |
 
 ---
