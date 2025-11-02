@@ -64,7 +64,6 @@ When not debugging kernel panics, you will find me with one of many hobbies.
 | Resource | Description |
 |----------|-------------|
 | **[docs.matildes.dev](https://docs.matildes.dev)** | Knowledge base: Linux, Azure, Python, Bash, and more |
-| **[docs](https://github.com/samatild/docs)** | Public repo where I share technical knowledge |
 
 ---
 
