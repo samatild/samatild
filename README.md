@@ -29,8 +29,7 @@ When not debugging kernel panics, you will find me with one of many hobbies.
 
 ## Currently Working On
 
-**Linux Performance IO Labs** - For training purposes
-- **[Linux IO Tracing Demos](https://github.com/samatild/linux-io-tracing-demos)** - This repository is for training purposes only and focuses on Linux IO delay analysis and tracing.
+- **[SOSParser](https://github.com/samatild/SOSParser)** - A webapp container to process Linux sosreport / supportconfig diagnostic files into HTML reports.
 
 ---
 
@@ -42,10 +41,12 @@ When not debugging kernel panics, you will find me with one of many hobbies.
 |---------|-------------|-------|
 | **[LinuxAiOPerf](https://github.com/samatild/LinuxAiOPerf)** | All-in-one performance checker & report generator (~10s runtime) | ![Stars](https://img.shields.io/github/stars/samatild/LinuxAiOPerf?style=social) |
 | **[TuxToaster](https://github.com/samatild/TuxToaster)** | Comprehensive stress testing toolkit for Linux systems | ![Stars](https://img.shields.io/github/stars/samatild/TuxToaster?style=social) |
+| **[SOSParser](https://github.com/samatild/SOSParser)**  | A webapp container to process Linux sosreport / supportconfig diagnostic files into HTML reports. | ![Stars](https://img.shields.io/github/stars/samatild/SOSParser?style=social) | 
 | **[linuxrebootcheck](https://github.com/samatild/linuxrebootcheck)** | Boot/shutdown quick analyzer - pinpoint slow events instantly | ![Stars](https://img.shields.io/github/stars/samatild/linuxrebootcheck?style=social) |
 | **[Linux IO Delayer](https://github.com/samatild/io-delayer)** | Kernel Module that adds IO delay : Similar to AV kprobes | ![Stars](https://img.shields.io/github/stars/samatild/io-delayer?style=social) |
 | **[kdump-enabler](https://github.com/samatild/kdump-enabler)** | Cross-distro kdump automation script | ![Stars](https://img.shields.io/github/stars/samatild/kdump-enabler?style=social) |
 | **[kdump-helper](https://github.com/samatild/kdump-helper)** | Automated kdump crash dump analysis preparation for Linux VMs | ![Stars](https://img.shields.io/github/stars/samatild/kdump-helper?style=social) |
+| **[Linux IO Tracing Demos](https://github.com/samatild/linux-io-tracing-demos)** | This repository is for training purposes only and focuses on Linux IO delay analysis and tracing. | ![Stars](https://img.shields.io/github/stars/samatild/linux-io-tracing-demos?style=social) |
 
 
 
