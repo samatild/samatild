@@ -12,7 +12,7 @@
 
 ---
 
-**🎄 Merry Christmas and a Happy New Year to all! 🎅**
+**🎆 Happy 2026 - May this year be filled with commits.**
 
 ---
 
