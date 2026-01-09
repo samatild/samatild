@@ -12,9 +12,6 @@
 
 ---
 
-**🎆 Happy 2026 - May this year be filled with commits.**
-
----
 
 ## About Me
 
