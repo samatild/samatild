@@ -12,6 +12,10 @@
 
 ---
 
+🛟 Currently migrating personal stuff to microK8s !
+
+--- 
+
 
 ## About Me
 
