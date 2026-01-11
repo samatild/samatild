@@ -12,11 +12,6 @@
 
 ---
 
-🛟 Currently migrating personal stuff to microK8s !
-
---- 
-
-
 ## About Me
 
 Senior Escalation Engineer with **14+ years** of experience in Linux, Azure Cloud, and enterprise infrastructure. I build tools that solve real-world problems—from performance analysis to crash dump diagnostics. Winner of **Microsoft Hackathon 2023** (1st place, Lisbon edition).
